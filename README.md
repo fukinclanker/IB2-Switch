@@ -89,7 +89,7 @@ Launch with a **full-memory title override**, not Album applet mode.
 
 ---
 
-## Stability features (from IB3 stable pass)
+## Stability features (from IB3 semi stable release)
 
 - Single shared SDL audio device (AAudio + OpenSL mixed together)
 - Forced vsync; docked 1920x1080 / handheld 1280x720
@@ -102,13 +102,8 @@ Log file: `infinityblade2_nx.log`
 ---
 
 ## Notes
-
-- The APK alone is **not** the full game — it only ships the runtime. The IPA
-  provides CookedIPhone assets (`Engine.xxx`, `IB2_InventoryMenu.xxx`, etc.).
-- If `prepare_runtime.py` rejects your APK hash, confirm you have
-  InfinityBladeII-Android-1.6.1, or pass `--allow-unknown-lib` for experiments.
-- IB2 and IB3 both use a `SwordGame.app` bundle name; the runtime detects IB2
-  via assets / `game::is_infinity_blade_2()`.
-
+- Does crash randomly
+- Audio still doesnt work at all (has subtitles but I am trying to get it fixed)
+  
 Credits 
 aks796 - uses the ib1 nx port src as a base to get the game running
