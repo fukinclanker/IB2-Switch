@@ -76,11 +76,13 @@ python3 prepare_runtime.py ib2.apk --ipa ib2.ipa --output runtime --nro path/to/
 Copy the `runtime/` folder to the SD card as:
 
 ```text
-sd:/switch/infinityblade2_nx/
-  infinityblade2_nx.nro
-  libib3.so
-  game/Payload/SwordGame.app/...
-  SaveData/
+sd:/switch/infinityblade3_nx/
+├── infinityblade_nx.nro
+├── cursor.png
+├── libIB3.so
+├── game/
+├── userdata/
+└── SaveData/
 ```
 
 Launch with a **full-memory title override**, not Album applet mode.
