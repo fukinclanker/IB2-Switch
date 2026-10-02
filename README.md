@@ -88,14 +88,7 @@ sd:/switch/infinityblade3_nx/
 Launch with a **full-memory title override**, not Album applet mode.
 
 ---
-
-## Stability features (from IB3 semi stable release)
-
-- Single shared SDL audio device (AAudio + OpenSL mixed together)
-- Forced vsync; docked 1920x1080 / handheld 1280x720
-- Touch gated until first present
-- Reduced SO arena / sparse mmap retries for texture streaming
-- `AMotionEvent_getAxisValue` stub for the IB2 libib3.so ABI
+to report bugs upload your log file in the issues tab
 
 Log file: `infinityblade2_nx.log`
 
