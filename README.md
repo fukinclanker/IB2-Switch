@@ -109,3 +109,6 @@ Log file: `infinityblade2_nx.log`
   InfinityBladeII-Android-1.6.1, or pass `--allow-unknown-lib` for experiments.
 - IB2 and IB3 both use a `SwordGame.app` bundle name; the runtime detects IB2
   via assets / `game::is_infinity_blade_2()`.
+
+Credits 
+aks796 - uses the ib1 nx port src as a base to get the game running
