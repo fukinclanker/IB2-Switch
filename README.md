@@ -70,7 +70,7 @@ Output: `infinityblade2_nx.nro`
 ## Preparing the runtime
 
 ```bash
-python3 prepare_runtime.py ib2.apk --ipa ib2.ipa --output runtime --nro path/to/infinityblade3_nx.nro
+python3 prepare_runtime.py ib2.apk --ipa ib2.ipa --output runtime --nro path/to/infinityblade2_nx.nro
 ```
 
 Copy the `runtime/` folder to the SD card as:
