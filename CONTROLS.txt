@@ -1,0 +1,31 @@
+NOTE: inherited from the Infinity Blade 1 wrapper. Screen positions used by
+these mappings have not been checked against Infinity Blade III.
+
+Infinity Blade controller mapping
+
+NORMAL MODE (cursor hidden)
+Left stick flick   One short combat swipe from screen center
+Right stick flick  One short camera swipe from screen center
+A                 Tap screen center
+B                 Hold shield
+Y                 Sword button (top left)
+X                 Magic button (top right)
+ZL                Dodge left
+ZR                Dodge right
++                 Pause
+-                 Unpause
+
+CURSOR MODE (press R to toggle)
+Left stick         Move cursor
+Right stick flick  Short camera swipe
+A                 Select at cursor
+B                 Hold the bottom-right touch target
+ZL                Select at cursor
+ZR                Select at cursor
+L                 Recenter cursor
+
+BOTH MODES
+D-pad direction   One smaller swipe in the pressed direction
+R                 Toggle cursor mode
+
+The physical touchscreen remains active.
