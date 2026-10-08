@@ -76,7 +76,7 @@ python3 prepare_runtime.py ib2.apk --ipa ib2.ipa --output runtime --nro path/to/
 Copy the `runtime/` folder to the SD card as:
 
 ```text
-sd:/switch/infinityblade3_nx/
+sd:/switch/infinityblade2_nx/
 ├── infinityblade_nx.nro
 ├── cursor.png
 ├── libIB3.so
